@@ -1,11 +1,17 @@
 # Rukmal Fernando
 
 # About me
-I have been fascinated by code and systems since the late 90's. I obtained my BSc (Hons) in Information Systems from the Manchester Metropolitan University in 2005 and my MS in Computer Scinence from the Northeastern University in Boston, MA., USA in 2010. In summer 2025, I started my MBA in Technology, Innovation and Entrepreneurship from the International Business University in Toronto, ON., Canada, and am due to graduate in August 2026.
 
-## Professional Summary
-I spent 17 years altogether at IFS, 2005-2007 and again 2010-2025. IFS helped me grow as a software engineer (working mostly with C# and PL\SQL), as a team leader (since 2015), as an Engineering Manager and 3rd Line Support Manager (2017-2020), as an Engineering leader (2020-2022) and a Program Management leader (2022-2025).
-I also completed internships at Virtusa (Colombo, Sri Lanka) and SeaChange International (Acton, MA., USA), a Research Assistantship with Northeastern University's Relational Agents Group and IT Support at International Business University.
+I am a seasoned technology practitioner, innovator and leader. 
+
+I started with hobby coding in the late 90's and then went on to complete  my undergraduate and graduate studies in Information Systems and Computer Science.
+
+For more than 18 years, I engineered key elements in enterprise-grade software solutions.
+
+With my MBA, I am further honing my business insights, strategic thinking and leadership skills.
+
+Connect with [me on LinkedIn](https://www.linkedin.com/in/rukmal/) to discover more about my journey and vision!
+
 
 ## Research and publications
 1. Fernando, H. R. M. (2005). *BigBrother: Recording, monitoring and matching user behaviour patterns to support authentication of network users* (Bachelor’s thesis). Informatics Institute of Technology, Sri Lanka.
@@ -21,3 +27,8 @@ I also completed internships at Virtusa (Colombo, Sri Lanka) and SeaChange Inter
 6. Bickmore, T. W., Fernando, R., Ring, L., & Schulman, D. (2010). *Empathic touch by relational agents*. IEEE Transactions on Affective Computing, 1(1), 60–71. https://doi.org/10.1109/T-AFFC.2010.9
 
 7. Silva, D. D., & Fernando, R. (2011). *Review on sign language recognition methods for supporting communication between deaf and non-deaf persons*. International Journal of Computational Vision and Robotics, 2(4), 323–343. https://doi.org/10.1504/IJCVR.2011.045269
+
+## Selected personal projects
+1. APS EMA extractor [https://github.com/rukmalf/aps-ema-extractor](https://github.com/rukmalf/aps-ema-extractor) - a production-grade API I created and used for years to monitor my solar PV Systems
+2. Job Applicator - Agentic AI solution built with Crew AI to tailor generic resumes and cover letters to specific job descriptions. *Source code available on demand*.
+3. [Up The Rungs](https://uptherungs.com) - An experimental AI-based solution to help job seekers prepare for job interviews.
