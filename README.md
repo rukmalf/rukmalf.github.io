@@ -4,13 +4,13 @@
 
 I am a seasoned technology practitioner, innovator and leader. 
 
-I started with hobby coding in the late 90's and then went on to complete  my undergraduate and graduate studies in Information Systems and Computer Science.
+I started with hobby coding in the late 90's and then went on to develop my theoretical knowledge through undergraduate and graduate studies in Information Systems and Computer Science.
 
 For more than 18 years, I engineered key elements in enterprise-grade software solutions.
 
 With my MBA, I am further honing my business insights, strategic thinking and leadership skills.
 
-Connect with [me on LinkedIn](https://www.linkedin.com/in/rukmal/) to discover more about my journey and vision!
+Connect with [me on LinkedIn](https://www.linkedin.com/in/rukmal/) to discover more about my journey!
 
 
 ## Research and publications
@@ -20,7 +20,7 @@ Connect with [me on LinkedIn](https://www.linkedin.com/in/rukmal/) to discover m
 
 3. Fernando, H. R. M. (2006, October 11–12). *A deterministic profiling approach to support behaviour anomaly detection*. International Information Technology Conference, Colombo, Sri Lanka.
 
-4. Bickmore, T., Fernando, R., Ring, L., & Schulman, D. (2009, May). *Towards empathic touch by relational agents*. In Proceedings of the AAMAS Workshop on Empathic Agents.
+4. Bickmore, T. & Fernando, R. (2009, May). *Towards empathic touch by relational agents*. In Proceedings of the AAMAS Workshop on Empathic Agents.
 
 5. Fernando, R. (2009). *Automated explanation of research informed consent by embodied conversational agents* (Master’s thesis, Northeastern University).
 
